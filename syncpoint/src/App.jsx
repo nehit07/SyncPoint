@@ -29,7 +29,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Hello world this
+        Hello world this 2
       </p>
     </div>
   )
